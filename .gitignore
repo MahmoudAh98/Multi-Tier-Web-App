@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Keep gitignore itself
+!.gitignore
+
+# Allow Terraform files
+!*.tf
+
+# Allow shell scripts
+!*.sh
+# Allow PDF
+!*.pdf
